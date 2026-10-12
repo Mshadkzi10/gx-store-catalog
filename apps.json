@@ -1,8 +1,9 @@
+
 [
-{
-"name": "برنامه آزمایشی",
-"version": "1.0",
-"size": "25 MB",
-"url": "https://github.com/Mshadkzi10/gx-store-catalog/blob/main/ru.zdevs.zarchiver_1.0.10-101035_minAPI23(arm64-v8a)(nodpi)_apkmirror.com.zip"
-}
-  ]
+  {
+    "name": "برنامه آزمایشی",
+    "version": "1.0",
+    "size": "25 MB",
+    "url": "https://raw.githubusercontent.com/Mshadkzi10/gx-store-catalog/main/ru.zdevs.zarchiver_1.0.10-101035_minAPI23(arm64-v8a)(nodpi)_apkmirror.com.zip"
+  }
+]
